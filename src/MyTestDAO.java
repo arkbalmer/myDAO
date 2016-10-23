@@ -11,7 +11,7 @@ public class MyTestDAO {
 		MYSQLDAOFactory mysqldaoFactory = DAOFactory.getDAOFactory(DAOFactory.MYSQL);
 		EntityDAO entityDAO = mysqldaoFactory.getStudentDAO();
 	
-		System.out.println("дратути");
+		System.out.println("дратути)");
 
 	}
 
